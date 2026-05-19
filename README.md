@@ -12,3 +12,4 @@ This project analyzes retail consumer behavior to group customers into distinct 
 * Seaborn & Matpllotlib (Advanced Cluster Visualization)
 
 # Final Analysis Results
+![Before Data] (./Before adding new data point.png) 
