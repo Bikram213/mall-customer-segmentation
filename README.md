@@ -1,0 +1,14 @@
+# Mall Customer Segmentation using K-Means Clustering
+
+This project analyzes retail consumer behavior to group customers into distinct segments based on their Annual Income and Spending Scores. By implementing an unsupervised Machine Learning pipeline, it helps businesses discover hidden target audiences and optimize personalized marketing strategies.
+# Features
+* Automated Cluster Optimization: Uses mathematical elbow detection (KneeLocator) to find the perfect value of cluster number without manual guessing.
+* New Entry Testing: Includes a prediction workflow that automatically profiles a new customer entry in real-time.
+* Isolated Visualizations: Custom cluster map layouts with external legend positioning to ensure zero overlapping of data.
+# Built With
+* Python
+* Pandas & Numpy
+* Scikit-Learn (KMeans Algorithm implementation)
+* Seaborn & Matpllotlib (Advanced Cluster Visualization)
+
+# Final Analysis Results
