@@ -12,5 +12,6 @@ This project analyzes retail consumer behavior to group customers into distinct 
 * Seaborn & Matpllotlib (Advanced Cluster Visualization)
 
 # Final Analysis Results
-![Before Data](https://github.com/Bikram213/mall-customer-segmentation/blob/c3311289d0177c7edbf7405d89a58cd1c205ec09/Before%20adding%20new%20data%20point.png) 
-![After Data](./After adding new data point.png)
+![Before Data](https://github.com/Bikram213/mall-customer-segmentation/blob/c3311289d0177c7edbf7405d89a58cd1c205ec09/Before%20adding%20new%20data%20point.png)
+
+![After Data]([./After adding new data point.png](https://github.com/Bikram213/mall-customer-segmentation/blob/a0fd7005b1e2d08728e948388dba7c19a54f5ff7/After%20adding%20new%20data%20point.png))
